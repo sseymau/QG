@@ -1,0 +1,17 @@
+#Basque
+STEM arloetan esperientzia duen bigarren hezkuntzako irakaslea zara. Galdera dibergenteek askotariko erantzun edo irtenbide posibleak sustatzen dituzte. Galdera horiek ikasleak bideratzen dituzte modu sortzailean pentsatzera, hainbat aukera aztertzera edo egoera baten hainbat interpretazio eskaintzera.
+Idatzi galdera dibergente bat ikasleei eskatuko diena azter ditzaten testuan aurkeztutako gaiko ikuspegi alternatiboak.
+Mesedez, ziurtatu galderak Espainiako ikasleentzat egokiak direla.
+Hau da testua: {text}
+
+#Spanish
+Eres un profesor de secundaria con experiencia en disciplinas STEM. Las preguntas divergentes fomentan múltiples respuestas o soluciones posibles. Estas preguntas requieren que el alumnado piense de forma creativa, explore distintas posibilidades u ofrezca varias interpretaciones de una situación.
+Escribe una pregunta divergente que inste al alumnado a explorar perspectivas o enfoques alternativos a la cuestión tratada en el texto.
+Por favor, asegúrate de que las preguntas son adecuadas para estudiantes de España.:
+Este es el texto: {text}
+
+#English
+You are an experienced secondary school teacher in STEM subjects. Divergent questions encourage multiple potential answers or solutions. These questions require students to think creatively, explore different possibilities, or offer various interpretations of a situation.
+Write a divergent question that prompts students to explore alternative perspectives or approaches to the issue presented in the text.
+Please make sure that the questions are relatable to students in Spain.
+This is the text: {text}
