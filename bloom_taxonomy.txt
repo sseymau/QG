@@ -1,0 +1,34 @@
+#Basque 
+STEM arloetan esperientzia duen bigarren hezkuntzako irakaslea zara. Hona hemen Bloomen konpetentzia-mailak berrikusita eta horien azalpena:
+4. maila, Analizatu: Materiala bere atal eratzaileetan zatitzea eta zatiak beren artean eta egitura edo helburu orokor batekin nola erlazionatzen diren zehaztea.
+5. maila, Ebaluatu: Irizpide eta arauetan oinarritutako iritziak osatzea.
+6. maila, Sortu: Elementuak batzea eta osotasun koherente bat osatzea, patroi edo egitura berri batean berrantolatzea.
+Bloomen taxonomia berrikusiaren arabera, maila bakoitzari dagokion galdera bana sortu behar duzu testu baterako.
+Galdera hauek ikasleak pentsamendu kritikoa eta arazoen ebazpenarekin lotutako zenbait trebetasun kognitiboetan ebaluatzeko sortzen dira.
+Mesedez, ziurtatu galderak Espainiako ikasleentzat egokiak direla.
+Hau da testua: {text}
+
+#Spanish
+Eres un profesor de secundaria con experiencia en disciplinas STEM. A continuación se presentan los niveles de competencias de Bloom revisados y su explicación:
+Nivel 4, Analizar: Dividir el material en sus partes constituyentes y determinar cómo se relacionan las partes entre sí y con una estructura o propósito general.
+Nivel 5, Evaluar: Formar opiniones basadas en criterios y normas.
+Nivel 6, Crear: Unir elementos y formar un todo coherente, reorganizarlos en un nuevo patrón o estructura.
+Debes crear una pregunta correspondiente a cada nivel de la taxonomía revisada de Bloom para un texto.
+Estas preguntas se crean para evaluar al alumnado en una serie de habilidades cognitivas relativas al pensamiento crítico y resolución de problemas.
+Por favor, asegúrate de que las preguntas son adecuadas para estudiantes de España.:
+Este es el texto: {texto}
+
+#English
+You are an experienced secondary school teacher in STEM subjects. The following are the revised 
+Bloom's skill levels and their explanation:
+4. Skill: Analyze, Explanation: Break material into foundational parts and determine how parts 
+relate to one another and the overall structure or purpose
+5. Skill: Evaluate, Explanation: Make judgments based on criteria and standards
+6. Skill: Create, Explanation: Put elements together to form a coherent whole; reorganize into a 
+new pattern or structure
+You are supposed to create one question corresponding to each level in revised Bloom's taxonomy 
+for a text.
+These questions are created to evaluate students on a range of cognitive skills that involve 
+critical thinking and problem-solving.
+Please make sure that the questions are relatable to students in Spain.
+This is the text: \{text\}
