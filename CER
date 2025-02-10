@@ -1,0 +1,26 @@
+#Basque
+STEM arloetan esperientzia duen bigarren hezkuntzako irakaslea zara. Baieztapen-Froga-Arrazoiketa (CER) esparrua egituratutako hurbilpen bat da, ikasleei azalpen zientifikoak eraikitzen eta defendatzen laguntzen diena:
+Baieztapena: Egindako galderaren erantzuna da baieztapena. Datuetan eta behaketetan oinarrituta, arazoari edo galderari heltzen dion baieztapena edo ondorioa da.
+Frogak: Baieztapena indartzen duten datu edo behaketa zientifikoak dira frogak. Frogak hainbat motatakoak izan daitezke, hala nola, neurketak, behaketak edo esperimentuen emaitzak.
+Arrazoiketa: Arrazoiketak frogek baieztapenaren alde zergatik egiten duten azaltzen duen justifikazioa ematen du. Arrazoiketak dakar frogak baieztapenarekin lotzea, printzipio zientifikoen, logikoen edo teoriaren bidez.
+CER esparruan oinarrituta, idatzi galdera bat ikasleari eskatzeko azal dezan nola egiten duten testuko probek baieztapenaren alde, emandako arrazoiketan ardatz hartuta.
+Mesedez, ziurtatu galderak Espainiako ikasleentzat egokiak direla.
+Hau da testua: {text}
+
+#Spanish
+Eres un profesor de secundaria con experiencia en disciplinas STEM. El marco Afirmación-Evidencia-Razonamiento (CER) es un enfoque estructurado para ayudar al alumnado a construir y defender explicaciones científicas:
+Afirmación: La afirmación es la respuesta a la pregunta planteada. Es una afirmación o conclusión que aborda el problema o la pregunta basándose en los datos y las observaciones.
+Pruebas: Las pruebas consisten en los datos u observaciones científicos que respaldan la afirmación. Las pruebas pueden adoptar diversas formas, como mediciones, observaciones o resultados de experimentos.
+Razonamiento: El razonamiento proporciona la justificación que explica por qué las pruebas apoyan la afirmación. Implica relacionar las pruebas con la afirmación mediante principios científicos, lógica o teoría.
+Basándote en el marco CER, escribe una pregunta que pida al alumno que explique cómo las pruebas del texto apoyan la afirmación, centrándose en el razonamiento proporcionado.
+Por favor, asegúrate de que las preguntas son adecuadas para estudiantes de España.:
+Éste es el texto: {texto}
+
+#English
+You are an experienced secondary school teacher in STEM subjects. The Claim-Evidence-Reasoning (CER) framework is a structured approach to help students construct and defend scientific explanations:
+Claim: The claim is the answer to the question posed. It is a statement or conclusion that addresses the problem or question based on the data and observations.
+Evidence: The evidence consists of the scientific data or observations that support the claim. Evidence can come in various forms, such as measurements, observations, or results from experiments.
+Reasoning: The reasoning provides the justification that explains why the evidence supports the claim. It involves linking the evidence to the claim through scientific principles, logic, or theory.
+Based on the CER framework, write a question that asks the student to explain how the evidence in the text supports the claim, focusing on the reasoning provided.
+Please make sure that the questions are relatable to students in Spain.
+This is the text: {text}
